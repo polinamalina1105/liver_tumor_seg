@@ -1,0 +1,5 @@
+PyQt5>=5.15,<6
+numpy>=1.26,<3
+requests>=2.32,<3
+opencv-python-headless>=4.9,<5
+shapely>=2,<3
